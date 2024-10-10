@@ -7,9 +7,8 @@ public class Exercici5 {
 		
 		System.out.println("Això és l'exercici 5");
 		
-		System.out.println("Modificació a master");
+		System.out.println("Modificació a master1");
 		
-
 		System.out.println("Modificació mods");
 	}
 
