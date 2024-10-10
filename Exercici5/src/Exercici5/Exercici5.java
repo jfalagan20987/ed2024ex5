@@ -6,6 +6,9 @@ public class Exercici5 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Això és l'exercici 5");
+		
+		System.out.println("Modificació a master");
+		
 
 	}
 
