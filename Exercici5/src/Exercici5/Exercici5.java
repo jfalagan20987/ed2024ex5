@@ -10,6 +10,7 @@ public class Exercici5 {
 		System.out.println("Modificació a master");
 		
 
+		System.out.println("Modificació mods");
 	}
 
 }
